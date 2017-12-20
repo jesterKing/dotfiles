@@ -1,0 +1,15 @@
+[submodule "vimfiles/bundle/ctrlp.vim"]
+	path = vimfiles/bundle/ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim.git
+[submodule "vimfiles/bundle/minibufexpl.vim"]
+	path = vimfiles/bundle/minibufexpl.vim
+	url = https://github.com/fholgado/minibufexpl.vim.git
+[submodule "vimfiles/bundle/nerdtree"]
+	path = vimfiles/bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "vimfiles/bundle/powerline"]
+	path = vimfiles/bundle/powerline
+	url = https://github.com/Lokaltog/powerline.git
+[submodule "vimfiles/bundle/snipMate"]
+	path = vimfiles/bundle/snipMate
+	url = https://github.com/vim-scripts/snipMate.git
